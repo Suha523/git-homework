@@ -3,3 +3,4 @@ Thuja occidentalis
 Fraxinus nigra
 Fraxinus americana
 Populus grandidentata
+Populus tremuloides
